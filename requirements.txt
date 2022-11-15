@@ -1,4 +1,4 @@
-lxml==4.6.3
+lxml==4.9.1
 olefile==0.46
 Pillow==8.3.2
 simple-settings==1.0.0
